@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - ground
+  - 'obstacles '
+  - harmful
+  - goal
   layers:
   - Default
   - TransparentFX
